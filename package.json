@@ -1,0 +1,23 @@
+{
+  "name": "image-geometry-parser",
+  "version": "0.0.1",
+  "description": "ImageMagic geometry parser. http://www.imagemagick.org/script/command-line-processing.php#geometry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/tsuchikazu/image-geometry-parser.git"
+  },
+  "keywords": [
+    "ImageMagic",
+    "geometry"
+  ],
+  "author": "tsuchikazu <huneyhunt77@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tsuchikazu/image-geometry-parser/issues"
+  },
+  "homepage": "https://github.com/tsuchikazu/image-geometry-parser"
+}
