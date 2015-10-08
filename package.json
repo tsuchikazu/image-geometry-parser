@@ -7,8 +7,8 @@
     "lib"
   ],
   "scripts": {
-    "build": "babel src --out-dir lib --source-maps inline",
-    "watch": "babel src --out-dir lib --watch --source-maps inline",
+    "build": "babel src --out-dir lib",
+    "watch": "babel src --out-dir lib --watch",
     "test": "mocha --compilers js:espower-babel/guess test/*.js",
     "test-watch": "mocha --watch --compilers js:espower-babel/guess test/*.js",
     "lint": "eslint src test"
