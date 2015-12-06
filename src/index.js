@@ -1,2 +1,2 @@
-import ImageGeometryParser from '../src/ImageGeometryParser';
+import ImageGeometryParser from './ImageGeometryParser';
 export default ImageGeometryParser;

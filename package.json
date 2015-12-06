@@ -1,6 +1,6 @@
 {
   "name": "image-geometry-parser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ImageMagic geometry parser. http://www.imagemagick.org/script/command-line-processing.php#geometry",
   "main": "lib/index.js",
   "files": [
